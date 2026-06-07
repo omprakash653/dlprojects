@@ -1,0 +1,1 @@
+python -c "import keras; import tensorflow as tf; print('Keras:', keras.__version__, '| TF:', tf.__version__)"
